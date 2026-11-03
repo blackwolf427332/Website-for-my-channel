@@ -2,7 +2,7 @@
   "$schema": "node_modules/wrangler/config-schema.json",
   "name": "lonewolf-427332",
   "main": "src/worker.js",
-  "compatibility_date": "2026-11-04",
+  "compatibility_date": "2026-11-03",
   "assets": {
     "directory": "./public",
     "binding": "ASSETS"
